@@ -1,4 +1,4 @@
-# Sentimental-analysis
+# TWEET AUTOMATE SENTIMENTAL ANALYSIS
 # Introduction
 
    The dealing with the tweets dataset. In this dataset, contains tweet text with 12 emotions (neutral, worry, happiness, sadness, love, surprise, fun, relief, hate, empty, enthusiasm, boredom and anger) and the goal is to predict the percentage of emotions in a giving text.
