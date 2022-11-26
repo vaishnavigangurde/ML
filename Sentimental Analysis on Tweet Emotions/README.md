@@ -1,12 +1,11 @@
 # Sentimental-analysis
 # Introduction
- The dealing with the Restaurant reviews dataset.
-In this dataset, there are reviews from the customers which are either positive or negative. 
-And now we are going to build a machine learning model using both Support Vector Classifier(SVC) and Count Vectorizer methods.
-And finally, this model is going to predict whether the given review is either positive or negative.
+
+   The dealing with the tweets dataset. In this dataset, contains tweet text with 12 emotions (neutral, worry, happiness, sadness, love, surprise, fun, relief, hate, empty, enthusiasm, boredom and anger) and the goal is to predict the percentage of emotions in a giving text.
+And now we are going to build a machine learning model using Multinomial Naive Bayes classifier, Support Vector Classifier(SVC) and Count Vectorizer methods.
+And finally, this model is going to predict whether the sentiments on given emotions is positive, neutral and negative.
 
 # conclusion
-I have  learned how to work on support vector classifier and count vectorizer and also we have seen how to
-use both on the model using pipeline and we have created a model which is able to predict whether
-the review is positive or negative. We have also seen it using some examples. And we saved the 
-model using the joblib and also retrieved it and used back using the joblib.
+
+   I have  learned how to work on machine learning models and also we have created a model which is able to predict whether
+the sentiment is positive, neutral and negative.
